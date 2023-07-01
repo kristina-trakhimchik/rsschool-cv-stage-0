@@ -14,6 +14,7 @@
 ----------------
 ## About Me
 
+I am just starting to study in the direction of Front-End (HTML, CSS and JavaScript). I have basic knowledge of programming, which makes it easier to navigate when studying. At the moment, I am interested in developing and acquiring knowledge to work as a Junior Frontend developer.
 
 -------------------
 ## Skills
@@ -28,17 +29,10 @@
 -----------------
 ## Code Example
 ```
-function test(g,h) {
-	if (g*h>10){
-		k=true;
-		}
-	else {
-		k=false
-		};
-	return k;
+function test(g, h) {
+    return g * h > 10;
 }
-let result = test(3,4);
-console.log(k);
+console.log(test(3,4));
 ```
 --------
 ## Education and courses
@@ -48,6 +42,11 @@ console.log(k);
     + **Specialty:** Applied computer data analysis - Master Degree
  * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
  ---------
+## Projects
+
+[CV](https://github.com/kristina-trakhimchik/rsschool-cv)
+
+-----------
  ## Languages
 
 * Russian - native
