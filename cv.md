@@ -39,8 +39,8 @@ console.log(test(3,4));
 
 * **University:** Yanka Kupala State University of Grodno, Faculty of Economics and Management:
     + **Specialty:** Information systems and technologies (in economics) - _software engineer-economist_ - Specialist Degree;
-    + **Specialty:** Applied computer data analysis - Master Degree
- * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+    + **Specialty:** Applied computer data analysis - Master Degree;
+ * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress).
  ---------
 ## Projects
 
