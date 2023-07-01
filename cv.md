@@ -1,5 +1,7 @@
 # KRYSTSINA TRAKHIMCHYK
 
+![](https://cdn.rs.school/avatars/kristina-trakhimchik.png?size=192)
+
 ## Contacts
 
 *  **PHONE:** 80292877430
@@ -8,8 +10,10 @@
 *  **Skype:** k-trakhimchik
 *  **LinkedIn:** [kristrakhimchik](https://www.linkedin.com/in/kristrakhimchik/) 
 * **GitHub:** [kristina-trakhimchik](https://github.com/kristina-trakhimchik)
+* **Discord:** Kristi (@kristina-trakhimchik)
 ----------------
 ## About Me
+
 
 -------------------
 ## Skills
@@ -37,3 +41,16 @@ let result = test(3,4);
 console.log(k);
 ```
 --------
+## Education and courses
+
+* **University:** Yanka Kupala State University of Grodno, Faculty of Economics and Management:
+    + **Specialty:** Information systems and technologies (in economics) - _software engineer-economist_ - Specialist Degree;
+    + **Specialty:** Applied computer data analysis - Master Degree
+ * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+ ---------
+ ## Languages
+
+* Russian - native
+* Belarusian - native
+* English - B1
+
